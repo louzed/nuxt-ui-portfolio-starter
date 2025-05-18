@@ -12,8 +12,8 @@
     <template #body>
       <div class="flex w-full">
         <div class="lg:flex max-w-4xl mx-auto">
-          <img src="/images/webflow1.webp" alt="UX Design XDi" class="lg:w-1/2" >
-          <img src="/images/webflow2.webp" alt="UX Design XDi" class="lg:w-1/2" >
+          <img src="/images/webflow1.webp" alt="UX Design XDi" class="lg:w-1/2" loading="eager" >
+          <img src="/images/webflow2.webp" alt="UX Design XDi" class="lg:w-1/2" loading="eager" >
         </div>
       </div>
     </template>
