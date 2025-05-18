@@ -1,6 +1,6 @@
 {
   "nav": {
-    "start": "Homepage",
+    "start": "Home",
     "projects": "Projects",
     "about": "About me"
   },
@@ -43,7 +43,7 @@
   "accordion": {
     "whatIsUx": {
       "label": "What is User Experience Design?",
-      "content": "My job is to design products, services, or systems in such a way that they are simple, intuitive, and pleasant for the user to operate. Good usability leads to more satisfied customers who are happy to return and recommend your offering. This reduces costs for support and training, increases customer loyalty, and gives your company a clear competitive advantage."
+      "content": "My job is to design products, services, or systems in a way that they are simple, intuitive, and pleasant for the user to operate. Good usability leads to more satisfied customers who are happy to return and recommend your offering. This reduces costs for support and training, increases customer loyalty, and gives your company a clear competitive advantage."
     },
     "isWordpressOld": {
       "label": "Is your WordPress site outdated?",
@@ -59,7 +59,7 @@
     },
     "websiteCosts": {
       "label": "What does a website cost with me?",
-      "content": "My pricing models are transparent. The base rate is €33 per hour (plus VAT). For standardized projects like a landing page (design & development), I offer a fixed price of €999 (plus VAT)."
+      "content": "My pricing models are transparent. The base rate is $33 per hour (plus VAT). For standardized projects like a landing page (design & development), I offer a fixed price of $999 (plus VAT)."
     }
   },
   "cv": {
@@ -70,7 +70,7 @@
     "items": [
       {
         "institution": "KiK GmbH",
-        "title": "Retail Management",
+        "title": "Retail Assistant",
         "description": "Apprenticeship + Further Training"
       },
       {
@@ -89,7 +89,7 @@
         "description": "Successfully discontinued"
       },
       {
-        "institution": "XDI - Experience Design Institute",
+        "institution": "Xd-i.com",
         "title": "Training UX Design",
         "description": "3-month remote course with mentor"
       },
@@ -113,7 +113,7 @@
     "subtitle": "I look forward to your message!"
   },
   "footer": {
-    "imprint": "Imprint",
+    "imprint": "Disclaimer",
     "privacy": "Privacy"
   },
   "imprint": {

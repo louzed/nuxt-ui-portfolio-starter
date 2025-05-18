@@ -1,6 +1,6 @@
 <template>
   <UDrawer v-model:open="open" should-scale-background>
-    <UButton label="UX Design XDi" icon="i-streamline-star-badge-solid" variant="outline" size="lg" />
+    <UButton label="UX Design" icon="i-streamline-star-badge-solid" variant="outline" size="lg" />
 
     <template #header>
       <div class="flex flex-grow max-w-4xl mx-auto justify-between">

@@ -40,7 +40,7 @@
 
 <script setup lang="ts">
 useHead({
-  title: 'Impressum', // This could also be internationalized if needed
+  title: 'Disclaimer', // This could also be internationalized if needed
   meta: [
     { name: 'description', content: 'Impressum dieser Webseite gemäß § 5 TMG.' } // And this
   ]

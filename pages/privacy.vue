@@ -83,7 +83,7 @@
 
 <script setup lang="ts">
 useHead({
-  title: 'Datenschutzerklärung', // This could also be internationalized
+  title: 'Privacy', // This could also be internationalized
   meta: [
     { name: 'description', content: 'Datenschutzerklärung für diese Webseite.' } // And this
   ]
