@@ -1,0 +1,209 @@
+{
+  "nav": {
+    "start": "Homepage",
+    "projects": "Projects",
+    "about": "About me"
+  },
+  "settings": {
+    "switchThemeTo": "Switch to {theme} mode",
+    "themeDark": "Dark",
+    "themeLight": "Light",
+    "switchLanguageTo": "Switch language to {language}"
+  },
+  "hero": {
+    "Badge": "Available for work",
+    "Title": "UX/UI Designer & Web Developer in Germany",
+    "ContactButton": "Book a call",
+    "heroImageAlt": "Hero image: Abstract visualization",
+    "whatsAppGreeting": "Hello Markus, "
+  },
+  "services": {
+    "mainHeading": "Modern & scalable applications for innovative companies",
+    "uxUiDesign": {
+      "title": "UX & UI Design",
+      "description": "From target group analysis to wireframes, design systems, and prototyping, I design products and software that inspire your customers and turn them into loyal advocates for your brand."
+    },
+    "frontendDev": {
+      "title": "Frontend Development",
+      "description": "From prototype to interactive experience. With the most modern tools – whether code or efficient web builders – I ensure a technical foundation that is fast, secure, and responsive."
+    }
+  },
+  "about": {
+    "hero": "Creative and attractive solutions for complex tasks",
+    "imageAlt": "About me - Portrait picture of Markus Biereth",
+    "section1": {
+      "title": "Who am I?",
+      "description": "I have been passionately designing websites and other digital products for about 20 years."
+    },
+    "section2": {
+      "title": "Certified UX Designer",
+      "description": "In 2022, I completed further training as a UX/UI Designer and have been working freelance since then."
+    }
+  },
+  "accordion": {
+    "whatIsUx": {
+      "label": "What is User Experience Design?",
+      "content": "My job is to design products, services, or systems in such a way that they are simple, intuitive, and pleasant for the user to operate. Good usability leads to more satisfied customers who are happy to return and recommend your offering. This reduces costs for support and training, increases customer loyalty, and gives your company a clear competitive advantage."
+    },
+    "isWordpressOld": {
+      "label": "Is your WordPress site outdated?",
+      "content": "Compared to modern, high-performance technologies (Webflow/Nuxt/Tailwind), old WordPress installations are often significantly slower and pose high security risks, primarily due to outdated plugins or PHP versions. Additionally, an antiquated design appears less reputable and can deter many potential customers. Therefore, don't wait too long to consider a technical and design refresh. A fresh appearance could bring new momentum to your company."
+    },
+    "whatCanAiDo": {
+      "label": "What can AI do for your company?",
+      "content": "By using AI, routine tasks can be designed more efficiently, and processes in web development and design can be shortened. This leads to more efficiency and can positively impact your budget. My role as an experienced generalist is to use these intelligent helpers purposefully, combine them with creative expertise, and manage your project holistically and target-oriented."
+    },
+    "myProjectApproach": {
+      "label": "How do I approach a project?",
+      "content": "In my design process, I use what works – whether Lean UX or agile product development. What's important is: We start with a deep understanding of the users. From this, we jointly develop clear priorities and ideas that can be tested and implemented. Design Thinking methods & workshops can help – but are rarely a substitute for factual problem-solving and genuine innovative spirit!"
+    },
+    "websiteCosts": {
+      "label": "What does a website cost with me?",
+      "content": "My pricing models are transparent. The base rate is €33 per hour (plus VAT). For standardized projects like a landing page (design & development), I offer a fixed price of €999 (plus VAT)."
+    }
+  },
+  "cv": {
+    "drawer": {
+      "buttonLabel": "Resume",
+      "headerTitle": "Resume"
+    },
+    "items": [
+      {
+        "institution": "KiK GmbH",
+        "title": "Retail Management",
+        "description": "Apprenticeship + Further Training"
+      },
+      {
+        "institution": "KiK GmbH",
+        "title": "Team Leader",
+        "description": "Managing of a branch with 5-7 employees"
+      },
+      {
+        "institution": "Bayernkolleg Schweinfurt",
+        "title": "Abitur (College)",
+        "description": "Second educational path, Grade 2.4"
+      },
+      {
+        "institution": "University of Würzburg",
+        "title": "Human-Computer Interactions",
+        "description": "Successfully discontinued"
+      },
+      {
+        "institution": "XDI - Experience Design Institute",
+        "title": "Training UX Design",
+        "description": "3-month remote course with mentor"
+      },
+      {
+        "institution": "Freelancer",
+        "title": "UX & UI Design",
+        "description": "On my way to become a usability hero"
+      }
+    ]
+  },
+  "projects": {
+    "badges": {
+      "uiDesign": "UI Design",
+      "uxUiDesign": "UX/UI Design",
+      "commission": "Commission",
+      "prototype": "Prototype"
+    }
+  },
+  "contactSection": {
+    "title": "Let's talk",
+    "subtitle": "I look forward to your message!"
+  },
+  "footer": {
+    "imprint": "Imprint",
+    "privacy": "Privacy"
+  },
+  "imprint": {
+    "title": "Imprint",
+    "name": "Markus Biereth",
+    "street": "Waltherstr. 18",
+    "cityZip": "97074 Würzburg",
+    "country": "Germany",
+    "contactTitle": "Contact",
+    "phoneLabel": "Phone",
+    "phoneNumber": "0178 / 578 5578",
+    "emailLabel": "Email",
+    "emailAddress": "markus{'@'}biereth.de",
+    "vatIdTitle": "VAT ID",
+    "vatIdText": "VAT identification number according to § 27 a of the German VAT Act",
+    "vatIdNumber": "DE367623200",
+    "euDisputeResolutionTitle": "EU Dispute Resolution",
+    "euDisputeResolutionText": "The European Commission provides a platform for online dispute resolution (ODR):",
+    "euDisputeResolutionLinkUrl": "https://ec.europa.eu/consumers/odr/",
+    "euDisputeResolutionLinkText": "https://ec.europa.eu/consumers/odr/",
+    "consumerDisputeResolutionTitle": "Consumer Dispute Resolution/Universal Arbitration Board",
+    "consumerDisputeResolutionText": "I am not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "section1": {
+      "title": "1. Privacy at a Glance",
+      "generalInfoTitle": "General Information",
+      "generalInfoText": "The following notes provide a simple overview of what happens to your personal data when you visit this website. Personal data is any data with which you can be personally identified.",
+      "responsiblePartyTitle": "Who is responsible for data collection on this website?",
+      "responsiblePartyText": "Data processing on this website is carried out by the website operator. You can find their contact details in the imprint of this website.",
+      "responsibleEntityTitle": "Responsible Entity:"
+    },
+    "section2": {
+      "title": "2. Hosting",
+      "intro": "This website is hosted externally. The personal data collected on this website is stored on the hoster's servers. This may include, but is not limited to, IP addresses, contact requests, meta and communication data, contract data, contact details, names, website access, and other data generated via a website.",
+      "provider": {
+        "name": "TrafficPlex GmbH",
+        "address1": "Konsul-Smidt-Str. 90",
+        "address2": "28217 Bremen",
+        "managingDirectorLabel": "Managing Director",
+        "managingDirectorName": "Phillipp Röll"
+      },
+      "projectInfo": "The hosting services used on this website (e.g., via the lima-city brand) are provided by TrafficPlex GmbH.",
+      "logfilesAndReferral": "When you visit our website, TrafficPlex GmbH (acting, among others, through its lima-city brand) collects various log files including your IP addresses. For details, please refer to the privacy policy of lima-city (a brand of TrafficPlex GmbH):",
+      "privacyPolicyLinkUrl": "https://www.lima-city.de/juristisches#datenschutzerklaerung",
+      "privacyPolicyLinkText": "https://www.lima-city.de/juristisches#datenschutzerklaerung",
+      "hostingPurpose": "The hosting serves the purpose of fulfilling contracts with our potential and existing customers (Art. 6 Para. 1 lit. b GDPR) and in the interest of a secure, fast, and efficient provision of our online offer by a professional provider (Art. 6 Para. 1 lit. f GDPR).",
+      "hostingLegalBasisGDPR": "If a corresponding consent has been requested, processing is carried out exclusively on the basis of Art. 6 Para. 1 lit. a GDPR and § 25 Para. 1 TTDSG, insofar as the consent includes the storage of cookies or access to information in the user's terminal device (e.g., device fingerprinting) within the meaning of the TTDSG. Consent can be revoked at any time.",
+      "dpaText": "We have concluded a Data Processing Agreement (DPA) with TrafficPlex GmbH for the use of the aforementioned services. This is a contract mandated by data protection law, which ensures that they process the personal data of our website visitors only in accordance with our instructions and in compliance with the GDPR."
+    },
+    "section3": {
+      "title": "3. General Information and Mandatory Information",
+      "dataProtectionTitle": "Data Protection",
+      "dataProtectionText1": "I take the protection of your personal data very seriously. I treat your personal data confidentially and in accordance with the statutory data protection regulations and this privacy policy.",
+      "dataProtectionText2": "When you use this website, various personal data are collected. This privacy policy explains what data I collect and what I use it for. It also explains how and for what purpose this happens.",
+      "dataProtectionText3": "I would like to point out that data transmission over the Internet (e.g., when communicating by email) can have security vulnerabilities. Complete protection of data from access by third parties is not possible.",
+      "sslEncryptionTitle": "SSL/TLS Encryption",
+      "sslEncryptionText": "This site uses SSL or TLS encryption for security reasons and to protect the transmission of confidential content. You can recognize an encrypted connection by the fact that the address line of the browser changes from \"http://\" to \"https://\" and by the lock symbol in your browser line.",
+      "noCookiesTitle": "No Cookies",
+      "noCookiesText": "This website does not use cookies.",
+      "noFormsCommentsTitle": "No Contact Forms or Comment Functions",
+      "noFormsCommentsText": "No contact forms or comment functions are used on this website through which personal data could be actively entered.",
+      "noAnalyticsPluginsTitle": "No Analysis Tools or Third-Party Plugins",
+      "noAnalyticsPluginsText": "This website does not use analysis tools (like Google Analytics) or third-party plugins (like social media buttons) that could transmit data to external servers.",
+      "serverLogFilesTitle": "Server Log Files",
+      "serverLogFilesText1": "The provider of the pages (lima-city) automatically collects and stores information in so-called server log files, which your browser automatically transmits to us. These are typically:",
+      "serverLogFilesItem1": "Browser type and browser version",
+      "serverLogFilesItem2": "Operating system used",
+      "serverLogFilesItem3": "Referrer URL (the previously visited page)",
+      "serverLogFilesItem4": "Hostname of the accessing computer",
+      "serverLogFilesItem5": "Time of the server request",
+      "serverLogFilesItem6": "IP address (usually anonymized or deleted by the hoster after a short time)",
+      "serverLogFilesText2": "This data is not merged with other data sources.",
+      "serverLogFilesText3": "The collection of this data is based on Art. 6 (1) lit. f GDPR.",
+      "hostingLegalBasisGDPRShort": "Art. 6 (1) lit. f GDPR",
+      "serverLogFilesText4": "The website operator has a legitimate interest in the technically error-free presentation and optimization of their website – for this purpose, the server log files must be collected. The storage period at lima-city is usually a few weeks."
+    },
+    "section4": {
+      "title": "4. Your Rights as a Data Subject",
+      "rightsText1": "Within the framework of the applicable legal provisions, you have the right at any time to free information about your stored personal data, its origin and recipients, and the purpose of data processing, and, if applicable, a right to correction, blocking, or deletion of this data.",
+      "rightsText2": "You also have the right to demand the restriction of the processing of your personal data and the right to data portability.",
+      "rightsText3": "Furthermore, you have the right to lodge a complaint with the competent supervisory authority.",
+      "rightsText4": "For this purpose, as well as for further questions on the subject of personal data, you can contact me at any time at the address given in the imprint.",
+      "withdrawalConsentTitle": "Revocation of Your Consent to Data Processing",
+      "withdrawalConsentText": "Many data processing operations are only possible with your express consent. However, since this website does not use such operations (like cookies or forms requiring consent), this point is primarily informative here. Should consent become necessary in the future, you can revoke consent already given at any time.",
+      "objectionRightTitle": "Right to Object to Data Collection in Special Cases and to Direct Marketing (Art. 21 GDPR)",
+      "objectionRightText1": "IF DATA PROCESSING IS BASED ON ART. 6 (1) LIT. E OR F GDPR, YOU HAVE THE RIGHT TO OBJECT TO THE PROCESSING OF YOUR PERSONAL DATA AT ANY TIME FOR REASONS ARISING FROM YOUR PARTICULAR SITUATION; THIS ALSO APPLIES TO PROFILING BASED ON THESE PROVISIONS. THE RESPECTIVE LEGAL BASIS ON WHICH PROCESSING IS BASED CAN BE FOUND IN THIS PRIVACY POLICY. IF YOU OBJECT, WE WILL NO LONGER PROCESS YOUR AFFECTED PERSONAL DATA UNLESS WE CAN DEMONSTRATE COMPELLING LEGITIMATE GROUNDS FOR THE PROCESSING WHICH OVERRIDE YOUR INTERESTS, RIGHTS, AND FREEDOMS, OR THE PROCESSING SERVES THE ASSERTION, EXERCISE, OR DEFENSE OF LEGAL CLAIMS (OBJECTION ACCORDING TO ART. 21 (1) GDPR).",
+      "objectionRightText2": "IF YOUR PERSONAL DATA IS PROCESSED FOR DIRECT MARKETING PURPOSES, YOU HAVE THE RIGHT TO OBJECT AT ANY TIME TO THE PROCESSING OF PERSONAL DATA CONCERNING YOU FOR THE PURPOSE OF SUCH MARKETING; THIS ALSO APPLIES TO PROFILING TO THE EXTENT THAT IT IS RELATED TO SUCH DIRECT MARKETING. IF YOU OBJECT, YOUR PERSONAL DATA WILL THEN NO LONGER BE USED FOR THE PURPOSE OF DIRECT MARKETING (OBJECTION ACCORDING TO ART. 21 (2) GDPR)."
+    }
+  }
+}
+  

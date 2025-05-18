@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "start": "Startseite",
+    "projects": "Projekte",
+    "about": "Über mich"
+  },
+  "settings": {
+    "switchThemeTo": "Wechsle zu {theme} Modus",
+    "themeDark": "Dunkel",
+    "themeLight": "Hell",
+    "switchLanguageTo": "Sprache wechseln zu {language}"
+  },
+  "hero": {
+    "Badge": "Verfügbar für Projekte",
+    "Title": "UX/UI Designer & Webentwickler in Mainfranken",
+    "ContactButton": "Termin buchen",
+    "heroImageAlt": "Hero Bild: Abstrakte Visualisierung",
+    "whatsAppGreeting": "Hallo Markus, "
+  },
+  "services": {
+    "mainHeading": "Moderne & skalierbare Anwendungen für innovative Unternehmen",
+    "uxUiDesign": {
+      "title": "UX & UI Design",
+      "description": "Von der Zielgruppenanalyse über Wireframes, Design Systemen und Prototyping gestalte ich Produkte und Software, die Ihre Kunden begeistern und zu treuen Vertretern Ihrer Marke machen."
+    },
+    "frontendDev": {
+      "title": "Frontend Entwicklung",
+      "description": "Vom Prototypen zum interaktiven Erlebnis. Mit modernsten Werkzeugen – ob Code oder effiziente Webbuilder – sorge ich für eine technische Basis, die schnell, sicher und responsiv ist."
+    }
+  },
+  "about": {
+    "hero": "Kreative und ansprechende Lösungen für komplexe Aufgaben",
+    "imageAlt": "Über mich - Porträtbild von Markus Biereth",
+    "section1": {
+      "title": "Wer bin ich?",
+      "description": "Ich gestalte Webseiten und andere digitale Produkte seit ca. 20 Jahren aus Leidenschaft."
+    },
+    "section2": {
+      "title": "Zertifizierter UX Designer",
+      "description": "2022 absolvierte ich eine Weiterbildung zum UX/UI Designer und arbeite seitdem freiberuflich."
+    }
+  },
+  "accordion": {
+    "whatIsUx": {
+      "label": "Was ist User Experience Design?",
+      "content": "Meine Aufgabe ist es, Produkte, Dienstleistungen oder Systeme so zu gestalten, dass sie für den Nutzer einfach, intuitiv und angenehm zu bedienen sind. Eine gute Usability führt zu zufriedeneren Kunden, die gerne wiederkommen und Ihr Angebot weiterempfehlen. Das senkt die Kosten für Support und Schulung, erhöht die Kundentreue und verschafft Ihrem Unternehmen einen klaren Wettbewerbsvorteil."
+    },
+    "isWordpressOld": {
+      "label": "Ist Ihre Wordpress-Seite veraltet?",
+      "content": "Im Vergleich zu modernen, performanten Technologien (Webflow/Nuxt/Tailwind) sind alte WordPress Installationen oft deutlich langsamer und birgen hohe Sicherheitsrisiken, primär durch veraltete Plugins oder PHP-Versionen. Zudem wirkt ein antiquiertes Design wenig seriös und kann viele potenzielle Kunden abschrecken. Warten Sie deshalb nicht zu lange, um über eine technische und gestalterische Auffrischung nachzudenken. Ein frisches Erscheinungsbild könnte in Ihrem Unternehmen für neuen Aufschwung sorgen."
+    },
+    "whatCanAiDo": {
+      "label": "Was kann KI für Ihr Unternehmen tun?",
+      "content": "Durch den Einsatz von KI lassen sich Routineaufgaben effizienter gestalten und Abläufe in der Webentwicklung und im Design verkürzen. Das führt zu mehr Effizienz und kann sich positiv auf Ihr Budget auswirken. Meine Rolle ist es, als erfahrener Generalist, diese intelligenten Helfer gezielt einzusetzen, sie mit kreativer Expertise zu kombinieren und Ihr Projekt ganzheitlich und zielgerichtet zu steuern."
+    },
+    "myProjectApproach": {
+      "label": "Wie gehe Ich bei einem Projekt vor?",
+      "content": "In meinem Designprozess nutze ich, was funktioniert – ob Lean UX oder agile Produktentwicklung. Wichtig ist: Wir starten mit einem tiefgehenden Verständnis für die Nutzer. Daraus entwickeln wir gemeinsam klare Prioritäten und Ideen, die sich testen und umsetzen lassen. Design Thinking Methoden & Workshops können helfen – sind aber selten Ersatz für sachliche Problemlösungen und echten Innovationsgeist!"
+    },
+    "websiteCosts": {
+      "label": "Was kostet eine Webseite bei mir?",
+      "content": "Meine Preismodelle sind transparent. Der Basissatz beträgt 33€ pro Stunde (zzgl. MwSt.). Für standardisierte Projekte wie eine Landing Page (Design & Entwicklung) biete ich einen Festpreis von 999€ (zzgl. MwSt.) an."
+    }
+  },
+  "cv": {
+    "drawer": {
+      "buttonLabel": "Lebenslauf",
+      "headerTitle": "Lebenslauf"
+    },
+    "items": [
+      {
+        "institution": "KiK GmbH",
+        "title": "Handelsassistent",
+        "description": "Ausbildung + Weiterbildung"
+      },
+      {
+        "institution": "KiK GmbH",
+        "title": "Teamleitung",
+        "description": "Leitung einer Filiale mit 5-7 Mitarbeitern"
+      },
+      {
+        "institution": "Bayernkolleg Schweinfurt",
+        "title": "Abitur",
+        "description": "Zweiter Bildungsweg, 2,4"
+      },
+      {
+        "institution": "Universität Würzburg",
+        "title": "Mensch-Computer-Systeme",
+        "description": "Erfolgreich abgebrochen"
+      },
+      {
+        "institution": "XDI - Experience Design Institut",
+        "title": "Weiterbildung UX Design",
+        "description": "3-monatiger Fernkurs mit Mentor"
+      },
+      {
+        "institution": "Freiberuflich",
+        "title": "UX & UI Designer",
+        "description": "Auf dem Weg zum Usability-Helden"
+      }
+    ]
+  },
+  "projects": {
+    "badges": {
+      "uiDesign": "UI Design",
+      "uxUiDesign": "UX/UI Design",
+      "commission": "Auftrag",
+      "prototype": "Prototyp"
+    }
+  },
+  "contactSection": {
+    "title": "Lassen Sie uns sprechen",
+    "subtitle": "Ich freue mich auf Ihre Nachricht!"
+  },
+  "footer": {
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "name": "Markus Biereth",
+    "street": "Waltherstr. 18",
+    "cityZip": "97074 Würzburg",
+    "country": "Deutschland",
+    "contactTitle": "Kontakt",
+    "phoneLabel": "Telefon",
+    "phoneNumber": "0178 / 578 5578",
+    "emailLabel": "E-Mail",
+    "emailAddress": "markus{'@'}biereth.de",
+    "vatIdTitle": "Umsatzsteuer-ID",
+    "vatIdText": "Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz",
+    "vatIdNumber": "DE367623200",
+    "euDisputeResolutionTitle": "EU-Streitschlichtung",
+    "euDisputeResolutionText": "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:",
+    "euDisputeResolutionLinkUrl": "https://ec.europa.eu/consumers/odr/",
+    "euDisputeResolutionLinkText": "https://ec.europa.eu/consumers/odr/",
+    "consumerDisputeResolutionTitle": "Verbraucher­streit­beilegung/Universal­schlichtungs­stelle",
+    "consumerDisputeResolutionText": "Ich bin nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucher­schlichtungs­stelle teilzunehmen."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "section1": {
+      "title": "1. Datenschutz auf einen Blick",
+      "generalInfoTitle": "Allgemeine Hinweise",
+      "generalInfoText": "Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.",
+      "responsiblePartyTitle": "Wer ist verantwortlich für die Datenerfassung auf dieser Website?",
+      "responsiblePartyText": "Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.",
+      "responsibleEntityTitle": "Verantwortliche Stelle:"
+    },
+    "section2": {
+      "title": "2. Hosting",
+      "intro": "Diese Website wird extern gehostet. Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters / der Hoster gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.",
+      "provider": {
+        "name": "TrafficPlex GmbH",
+        "address1": "Konsul-Smidt-Str. 90",
+        "address2": "28217 Bremen",
+        "managingDirectorLabel": "Geschäftsführer",
+        "managingDirectorName": "Phillipp Röll"
+      },
+      "projectInfo": "Die auf dieser Webseite genutzten Hosting-Dienste (z.B. über die Marke lima-city) werden von der TrafficPlex GmbH bereitgestellt.",
+      "logfilesAndReferral": "Beim Besuch unserer Website erfasst die TrafficPlex GmbH (handelnd unter anderem über ihre Marke lima-city) verschiedene Logfiles einschließlich Ihrer IP-Adressen. Details entnehmen Sie der Datenschutzerklärung von lima-city (einer Marke der TrafficPlex GmbH):",
+      "privacyPolicyLinkUrl": "https://www.lima-city.de/juristisches#datenschutzerklaerung",
+      "privacyPolicyLinkText": "https://www.lima-city.de/juristisches#datenschutzerklaerung",
+      "hostingPurpose": "Das Hosting dient dem Zweck der Vertragserfüllung gegenüber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO).",
+      "hostingLegalBasisGDPR": "Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device Fingerprinting) im Sinne des TTDSG umfasst. Die Einwilligung ist jederzeit widerrufbar.",
+      "dpaText": "Wir haben mit der TrafficPlex GmbH einen Vertrag über Auftragsverarbeitung (AVV) zur Nutzung der oben genannten Dienste geschlossen. Hierbei handelt es sich um einen datenschutzrechtlich vorgeschriebenen Vertrag, der gewährleistet, dass diese die personenbezogenen Daten unserer Websitebesucher nur nach unseren Weisungen und unter Einhaltung der DSGVO verarbeitet."
+    },
+    "section3": {
+      "title": "3. Allgemeine Hinweise und Pflicht­informationen",
+      "dataProtectionTitle": "Datenschutz",
+      "dataProtectionText1": "Ich nehme den Schutz Ihrer persönlichen Daten sehr ernst. Ich behandle Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.",
+      "dataProtectionText2": "Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Diese Datenschutzerklärung erläutert, welche Daten ich erhebe und wofür ich sie nutze. Sie erläutert auch, wie und zu welchem Zweck das geschieht.",
+      "dataProtectionText3": "Ich weise darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.",
+      "sslEncryptionTitle": "SSL/TLS-Verschlüsselung",
+      "sslEncryptionText": "Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte eine SSL- bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.",
+      "noCookiesTitle": "Keine Cookies",
+      "noCookiesText": "Diese Internetseite verwendet keine Cookies.",
+      "noFormsCommentsTitle": "Keine Kontaktformulare oder Kommentarfunktionen",
+      "noFormsCommentsText": "Auf dieser Website werden keine Kontaktformulare oder Kommentarfunktionen eingesetzt, über die personenbezogene Daten aktiv eingegeben werden könnten.",
+      "noAnalyticsPluginsTitle": "Keine Analysetools oder Drittanbieter-Plugins",
+      "noAnalyticsPluginsText": "Diese Website verzichtet auf den Einsatz von Analysetools (wie Google Analytics) und Plugins von Drittanbietern (wie Social Media Buttons), die Daten an externe Server übertragen könnten.",
+      "serverLogFilesTitle": "Server-Log-Dateien",
+      "serverLogFilesText1": "Der Provider der Seiten (lima-city) erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind typischerweise:",
+      "serverLogFilesItem1": "Browsertyp und Browserversion",
+      "serverLogFilesItem2": "verwendetes Betriebssystem",
+      "serverLogFilesItem3": "Referrer URL (die zuvor besuchte Seite)",
+      "serverLogFilesItem4": "Hostname des zugreifenden Rechners",
+      "serverLogFilesItem5": "Uhrzeit der Serveranfrage",
+      "serverLogFilesItem6": "IP-Adresse (in der Regel anonymisiert oder nach kurzer Zeit gelöscht durch den Hoster)",
+      "serverLogFilesText2": "Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.",
+      "serverLogFilesText3": "Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.",
+      "hostingLegalBasisGDPRShort": "Art. 6 Abs. 1 lit. f DSGVO",
+      "serverLogFilesText4": "Der Websitebetreiber hat ein berechtigtes Interesse an der technisch fehlerfreien Darstellung und der Optimierung seiner Website – hierzu müssen die Server-Log-Files erfasst werden. Die Speicherdauer bei lima-city beträgt in der Regel wenige Wochen."
+    },
+    "section4": {
+      "title": "4. Ihre Rechte als Betroffener",
+      "rightsText1": "Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten.",
+      "rightsText2": "Sie haben außerdem das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen sowie das Recht auf Datenübertragbarkeit.",
+      "rightsText3": "Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.",
+      "rightsText4": "Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an mich wenden.",
+      "withdrawalConsentTitle": "Widerruf Ihrer Einwilligung zur Datenverarbeitung",
+      "withdrawalConsentText": "Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Da diese Website aber keine solchen Vorgänge (wie Cookies oder Formulare mit Einwilligung) nutzt, ist dieser Punkt hier primär informativ. Sollte zukünftig eine Einwilligung erforderlich werden, können Sie eine bereits erteilte Einwilligung jederzeit widerrufen.",
+      "objectionRightTitle": "Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)",
+      "objectionRightText1": "WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GRÜNDEN, DIE SICH AUS IHRER BESONDEREN SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN WIDERSPRUCH EINZULEGEN; DIES GILT AUCH FÜR EIN AUF DIESE BESTIMMUNGEN GESTÜTZTES PROFILING. DIE JEWEILIGE RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT, ENTNEHMEN SIE DIESER DATENSCHUTZERKLÄRUNG. WENN SIE WIDERSPRUCH EINLEGEN, WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES SEI DENN, WIR KÖNNEN ZWINGENDE SCHUTZWÜRDIGE GRÜNDE FÜR DIE VERARBEITUNG NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN ÜBERWIEGEN ODER DIE VERARBEITUNG DIENT DER GELTENDMACHUNG, AUSÜBUNG ODER VERTEIDIGUNG VON RECHTSANSPRÜCHEN (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO).",
+      "objectionRightText2": "WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN, SO HABEN SIE DAS RECHT, JEDERZEIT WIDERSPRUCH GEGEN DIE VERARBEITUNG SIE BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG EINZULEGEN; DIES GILT AUCH FÜR DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH NACH ART. 21 ABS. 2 DSGVO)."
+    }
+  }
+}
