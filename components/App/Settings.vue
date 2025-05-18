@@ -2,14 +2,6 @@
   <ClientOnly>
     <UButtonGroup>
       <UButton
-        :aria-label="t('settings.switchThemeTo', { theme: nextTheme })" :icon="colorMode.value === 'dark' ? 'i-line-md-sunny-filled-loop-to-moon-filled-loop-transition' : 'i-line-md-sun-rising-filled-loop'"
-        :label="colorMode.value === 'dark' ? t('settings.themeDark') : t('settings.themeLight')" color="neutral"
-        variant="outline"
-        size="md"
-        class="rounded-md"
-        @click="startViewTransition"
-      />
-      <UButton
         :aria-label="t('settings.switchLanguageTo', { language: nextLanguageName })" icon="i-mdi-world"
         color="neutral"
         variant="outline"
@@ -17,6 +9,14 @@
         size="md"
         class="rounded-md"
         @click="toggleLanguage"
+      />
+      <UButton
+        :aria-label="t('settings.switchThemeTo', { theme: nextTheme })" :icon="colorMode.value === 'dark' ? 'i-line-md-sunny-filled-loop-to-moon-filled-loop-transition' : 'i-line-md-sun-rising-filled-loop'"
+        color="neutral"
+        variant="outline"
+        size="md"
+        class="rounded-md"
+        @click="startViewTransition"
       />
     </UButtonGroup>
   </ClientOnly>
@@ -77,7 +77,7 @@ const languages: Record<LanguageCode, string> = {
 };
 
 const currentLanguageCode = computed(() => locale.value as LanguageCode);
-const currentLanguageLabel = computed(() => languages[currentLanguageCode.value] || currentLanguageCode.value);
+const currentLanguageLabel = computed(() => currentLanguageCode.value.toUpperCase());
 
 const nextLanguageCodeToSwitchTo = computed<LanguageCode>(() => {
   return currentLanguageCode.value === 'de' ? 'en' : 'de';
