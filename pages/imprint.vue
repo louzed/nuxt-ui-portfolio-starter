@@ -51,17 +51,17 @@ useHead({
 h1 {
   margin-bottom: 1.2em;
 }
-
 h3 {
   margin-top: 1.2em;
   margin-bottom: 0.6em;
 }
-
+p {
+  color: var(--ui-text-muted);
+}
 a {
   text-decoration: underline;
   color: var(--ui-color-primary-400);
 }
-
 a:hover {
   text-decoration: none;
   color: var(--ui-color-primary-500);

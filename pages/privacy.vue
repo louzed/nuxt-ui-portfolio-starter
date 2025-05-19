@@ -99,6 +99,9 @@ h3 {
    margin-top: 1.2em;
    margin-bottom: 0.6em;
 }
+p {
+  color: var(--ui-text-muted);
+}
 address {
   margin-bottom: 1em;
 }
