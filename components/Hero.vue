@@ -17,8 +17,8 @@
               {{ t('hero.Title') }}
             </p>
             <div class="flex flex-row gap-2 mt-6">
-              <UButton :to="whatsAppUrl" target="blank" label="WhatsApp" size="lg" icon="i-mdi-whatsapp" color="success" />
-              <UButton to="https://zeeg.me/biereth" :label="t('hero.ContactButton')" size="lg" trailing-icon="i-mdi-external-link" />
+              <UButton :to="whatsAppUrl" target="_blank" label="WhatsApp" size="lg" icon="i-mdi-whatsapp" color="success" />
+              <UButton to="https://zeeg.me/biereth" :label="t('hero.ContactButton')" target="_blank" size="lg" trailing-icon="i-mdi-external-link" />
             </div>
           </div>
         </div>

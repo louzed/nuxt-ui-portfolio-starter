@@ -15,7 +15,7 @@
       <div class="flex gap-2 mx-auto relative z-10">
         <UButton
           :to="whatsAppUrl" 
-          target="blank" 
+          target="_blank" 
           label="WhatsApp" 
           size="lg"
           icon="i-mdi-whatsapp" 
@@ -23,7 +23,7 @@
         />
         <UButton
           to="https://zeeg.me/biereth" 
-          target="blank" 
+          target="_blank" 
           :label="t('hero.ContactButton')" 
           size="lg"
           icon="i-mdi-external-link" 

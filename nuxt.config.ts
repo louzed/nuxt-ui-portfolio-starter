@@ -30,6 +30,7 @@ export default defineNuxtConfig({
         { code: 'de', name: 'Deutsch', file: 'de.json' }
       ],
       scrollBehavior: false,
+      strategy: 'prefix_and_default',
     }]
   ],
 
