@@ -23,15 +23,13 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     '@nuxt/eslint',
     '@nuxt/image-edge',
-    ['@nuxtjs/i18n', { // Pass options as the second element in the array
+    ['@nuxtjs/i18n', { 
       defaultLocale: 'de',
       locales: [
         { code: 'en', name: 'English', file: 'en.json' },
         { code: 'de', name: 'Deutsch', file: 'de.json' }
       ],
       scrollBehavior: false,
-      langDir: 'locales', // Example of another option
-      strategy: 'prefix_except_default', // Example of another option
     }]
   ],
 

@@ -19,8 +19,7 @@
     "@nuxtjs/i18n": "^9.5.4",
     "@vueuse/components": "^13.1.0",
     "intersection-observer": "^0.12.2",
-    "nuxt": "^3.16.2",
-    "nuxt-anchorscroll": "^1.0.5"
+    "nuxt": "^3.16.2"
   },
   "devDependencies": {
     "@nuxt/eslint": "^1.3.0",

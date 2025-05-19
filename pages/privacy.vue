@@ -1,6 +1,6 @@
 <template>
   <div>
-    <UContainer class="!px-4 py-16 lg:py-32 max-w-4xl mx-auto">
+    <UContainer class="!px-6 py-16 lg:py-32 max-w-4xl mx-auto">
       <h1>{{ $t('privacy.title') }}</h1>
 
       <h2>{{ $t('privacy.section1.title') }}</h2>

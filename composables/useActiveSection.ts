@@ -2,7 +2,7 @@
 import { ref, onMounted, onUnmounted, watch, nextTick } from 'vue';
 import { useState, useRoute, useLocalePath } from '#imports';
 
-const SUSPEND_MS = 500; // suspension window for any navigation
+const SUSPEND_MS = 600; // suspension window for any navigation
 
 export function useActiveSection(sectionSelector = 'section[id]') {
   const activeSectionId = useState<string|null>('activeSectionId', () => null);

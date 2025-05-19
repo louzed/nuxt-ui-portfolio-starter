@@ -58,7 +58,7 @@
       "content": "In my design process, I use what works – whether Lean UX or agile product development. What's important is: We start with a deep understanding of the users. From this, we jointly develop clear priorities and ideas that can be tested and implemented. Design Thinking methods & workshops can help – but are rarely a substitute for factual problem-solving and genuine innovative spirit!"
     },
     "websiteCosts": {
-      "label": "What does a website cost with me?",
+      "label": "What does a website cost?",
       "content": "My pricing models are transparent. The base rate is $33 per hour (plus VAT). For standardized projects like a landing page (design & development), I offer a fixed price of $999 (plus VAT)."
     }
   },
@@ -109,11 +109,11 @@
     }
   },
   "contactSection": {
-    "title": "Let's talk",
-    "subtitle": "I look forward to your message!"
+    "title": "Let's talk!",
+    "subtitle": "I look forward to your message."
   },
   "footer": {
-    "imprint": "Disclaimer",
+    "imprint": "Imprint",
     "privacy": "Privacy"
   },
   "imprint": {

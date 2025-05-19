@@ -58,7 +58,7 @@
       "content": "In meinem Designprozess nutze ich, was funktioniert – ob Lean UX oder agile Produktentwicklung. Wichtig ist: Wir starten mit einem tiefgehenden Verständnis für die Nutzer. Daraus entwickeln wir gemeinsam klare Prioritäten und Ideen, die sich testen und umsetzen lassen. Design Thinking Methoden & Workshops können helfen – sind aber selten Ersatz für sachliche Problemlösungen und echten Innovationsgeist!"
     },
     "websiteCosts": {
-      "label": "Was kostet eine Webseite bei mir?",
+      "label": "Was kostet eine Webseite?",
       "content": "Meine Preismodelle sind transparent. Der Basissatz beträgt 33€ pro Stunde (zzgl. MwSt.). Für standardisierte Projekte wie eine Landing Page (Design & Entwicklung) biete ich einen Festpreis von 999€ (zzgl. MwSt.) an."
     }
   },
@@ -109,8 +109,8 @@
     }
   },
   "contactSection": {
-    "title": "Lassen Sie uns sprechen",
-    "subtitle": "Ich freue mich auf Ihre Nachricht!"
+    "title": "Lassen Sie uns sprechen!",
+    "subtitle": "Ich freue mich auf Ihre Nachricht."
   },
   "footer": {
     "imprint": "Impressum",

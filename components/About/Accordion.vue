@@ -1,6 +1,6 @@
 <template>
   <div class="border-b border-muted">
-    <UContainer class="xl:border-r xl:border-l border-muted !px-4 lg:!px-8 py-12">
+    <UContainer class="xl:border-r xl:border-l border-muted !px-6 lg:!px-8 py-12">
       <UAccordion v-model="activeItemValue" :items="localizedItems" />
     </UContainer>
   </div>

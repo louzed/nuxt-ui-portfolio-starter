@@ -2,7 +2,7 @@
   <section id="hero">
     <div class="border-b border-muted">
       <UContainer class="min-h-[calc(100vh-128px)] lg:flex xl:border-r-1 xl:border-l-1 border-muted">
-        <div class="flex lg:w-1/2 lg:justify-start justify-center items-center px-4 lg:px-8 py-20 lg:border-r-1 border-muted">
+        <div class="flex lg:w-1/2 lg:justify-start justify-center items-center px-6 lg:px-8 py-20 lg:border-r-1 border-muted">
           <div class="flex flex-col items-center lg:items-start gap-2">
             <ClientOnly>
               <img src="/images/avatar.webp" alt="Markus Biereth" class="w-28 h-28 bg-elevated mb-3 rounded-full" >

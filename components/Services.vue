@@ -1,13 +1,13 @@
 <template>
   <div class="border-b border-muted">
-    <UContainer class="flex flex-col py-24 !px-4">
+    <UContainer class="flex flex-col py-24 !px-6">
       <h2 class="max-w-5xl mx-auto text-center">{{ t('services.mainHeading') }}</h2>
     </UContainer>
   </div>
 
   <div class="border-b border-muted">
     <UContainer class="lg:flex xl:border-r xl:border-l border-muted">
-      <div class="flex flex-col lg:w-1/2 px-4 lg:px-8 py-16 lg:border-r border-b lg:border-b-0 border-muted">
+      <div class="flex flex-col lg:w-1/2 px-6 lg:px-8 py-16 lg:border-r border-b lg:border-b-0 border-muted">
         <div class="isolate flex flex-col items-start gap-2">
           <div
             v-intersection-observer.once="createIntersectionHandler('ux')"
@@ -26,7 +26,7 @@
         </div>
       </div>
 
-      <div class="flex flex-col lg:w-1/2 px-4 lg:px-8 py-16">
+      <div class="flex flex-col lg:w-1/2 px-6 lg:px-8 py-16">
         <div class="flex flex-col items-start gap-2">
           <div
             v-intersection-observer.once="createIntersectionHandler('frontend')"
@@ -39,8 +39,8 @@
           </p>
           <div class="flex flex-wrap gap-2">
             <UBadge size="md" color="neutral" variant="soft">HTML/CSS</UBadge>
-            <UBadge size="md" color="neutral" variant="soft">NuxtJS</UBadge>
             <UBadge size="md" color="neutral" variant="soft">Tailwind</UBadge>
+            <UBadge size="md" color="neutral" variant="soft">Nuxt</UBadge>
           </div>
         </div>
       </div>

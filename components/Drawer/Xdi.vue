@@ -4,7 +4,7 @@
 
     <template #header>
       <div class="flex flex-grow max-w-4xl mx-auto justify-between">
-        <p class="text-muted text-lg pt-1">XDi - Experience Design Institute</p>
+        <p class="text-muted text-lg pt-1">Experience Design Institute</p>
         <UButton color="neutral" variant="ghost" icon="i-lucide-x" size="lg" @click="open = false" />
       </div>
     </template>

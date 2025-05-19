@@ -2,9 +2,9 @@
     <div ref="carousel" class="logo-carousel overflow-hidden whitespace-nowrap border-b border-muted py-24 lg:py-32">
       <div class="logo-track inline-flex">
         <img v-for="(logo, i) in logos" :key="i" :src="logo"
-          class="h-6 lg:h-10 mx-4 lg:mx-8 opacity-80 hover:opacity-100 transition-opacity" >
+          class="h-6 lg:h-10 mx-4 lg:mx-8 opacity-60 hover:opacity-100 transition-opacity" >
         <img v-for="(logo, i) in logos" :key="'dup-' + i" :src="logo"
-          class="h-6 lg:h-10 mx-4 lg:mx-8 opacity-80 hover:opacity-100 transition-opacity" >
+          class="h-6 lg:h-10 mx-4 lg:mx-8 opacity-60 hover:opacity-100 transition-opacity" >
       </div>
     </div>
 </template>
@@ -52,14 +52,5 @@ onMounted(() => {
 <style scoped>
 .logo-track>* {
   flex-shrink: 0;
-}
-
-.logo-carousel img {
-  filter: none;
-  transition: filter 0.2s;
-}
-
-.dark .logo-carousel img {
-  filter: brightness(1);
 }
 </style>

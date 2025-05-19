@@ -1,6 +1,6 @@
 <template>
   <div>
-    <UContainer class="!px-4 py-12 lg:py-24 max-w-4xl mx-auto">
+    <UContainer class="!px-6 py-12 lg:py-24 max-w-4xl mx-auto">
       <h1>{{ $t('imprint.title') }}</h1>
 
       <address class="mb-6">
@@ -40,7 +40,7 @@
 
 <script setup lang="ts">
 useHead({
-  title: 'Disclaimer', // This could also be internationalized if needed
+  title: 'Imprint', // This could also be internationalized if needed
   meta: [
     { name: 'description', content: 'Impressum dieser Webseite gemäß § 5 TMG.' } // And this
   ]
