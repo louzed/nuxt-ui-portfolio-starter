@@ -23,7 +23,7 @@
             </UBadge>
           </div>
           <NuxtLink :to="to">
-            <h5>{{ title }}</h5>
+            <h5 class="projecttitle transition">{{ title }}</h5>
           </NuxtLink>
           <p class="text-muted max-w-lg mb-4">{{ description }}</p>
           <div class="flex gap-2">
@@ -46,3 +46,9 @@ defineProps<{
   transitionName?: string
 }>()
 </script>
+
+<style scoped>
+  .projecttitle:hover {
+  color: var(--ui-text-primary);
+}
+</style>

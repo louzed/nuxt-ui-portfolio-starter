@@ -3,7 +3,7 @@
     <UContainer class="!px-6 py-12 lg:py-24 max-w-4xl mx-auto">
       <h1>{{ $t('imprint.title') }}</h1>
 
-      <address class="mb-6">
+      <address class="not-italic mb-6">
         {{ $t('imprint.name') }}<br>
         {{ $t('imprint.street') }}<br>
         {{ $t('imprint.cityZip') }}<br>
@@ -59,16 +59,16 @@ p {
   color: var(--ui-text-muted);
 }
 a {
-  text-decoration: underline;
+  text-decoration: none;
   color: var(--ui-color-primary-400);
 }
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
   color: var(--ui-color-primary-500);
 }
-
 address {
   margin-top: 1em;
   margin-bottom: 1em;
+  color: var(--ui-text-muted);
 }
 </style>

@@ -47,8 +47,8 @@ export interface LocalizedString {
           en: 'Project duration: 6 weeks',
         },
         description: {
-          de: 'Ein vorhandenes UX Konzept soll anhand der <a href="https://carbondesignsystem.com/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 underline hover:no-underline">Carbon Library</a> von IBM in ein fertiges UI Design überführt werden. Hoher Fokus auf Barrierefreiheit. Seitenzahl: ~150.',
-          en: 'An existing UX concept is to be transformed into a finished UI design using IBM\'s <a href="https://carbondesignsystem.com/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 underline hover:no-underline">Carbon Library</a>. High focus on accessibility. Page count: ~150.',
+          de: 'Ein vorhandenes UX Konzept soll anhand der <a href="https://carbondesignsystem.com/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 no-underline hover:underline">Carbon Library</a> von IBM in ein fertiges UI Design überführt werden. Hoher Fokus auf Barrierefreiheit. Seitenzahl: ~150.',
+          en: 'An existing UX concept is to be transformed into a finished UI design using IBM\'s <a href="https://carbondesignsystem.com/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 no-underline hover:underline">Carbon Library</a>. High focus on accessibility. Page count: ~150.',
         },
         imageSrc: '/images/hss00.webp',
         viewTransitionName: 'project-image-hochschulstart',
@@ -151,8 +151,8 @@ export interface LocalizedString {
           en: 'Leisure Project',
         },
         description: {
-          de: 'Ideen- und Kollaborationsnetzwerk für Open-Source Projekte, Entwickler und Enthusiasten auf Basis von <a href="https://ocelot.social/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 underline hover:no-underline">Ocelot Social</a>.',
-          en: 'Idea and collaboration network for open-source projects, developers, and enthusiasts based on <a href="https://ocelot.social/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 underline hover:no-underline">Ocelot Social</a>.',
+          de: 'Ideen- und Kollaborationsnetzwerk für Open-Source Projekte, Entwickler und Enthusiasten auf Basis von <a href="https://ocelot.social/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 no-underline hover:underline">Ocelot Social</a>.',
+          en: 'Idea and collaboration network for open-source projects, developers, and enthusiasts based on <a href="https://ocelot.social/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 no-underline hover:underline">Ocelot Social</a>.',
         },
         imageSrc: '/images/oto00.webp',
         viewTransitionName: 'project-image-otopia',

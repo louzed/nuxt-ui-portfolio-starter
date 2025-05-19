@@ -10,10 +10,10 @@
 
 <script setup lang="ts">
 import { computed } from 'vue';
-import { isLanguageSwitching } from '~/composables/useNavigationState'; // Adjust path
+import { isLanguageSwitching } from '~/composables/useNavigationState';
 
-// Define your default page transition
-const defaultPageTransition = { name: 'page', mode: 'out-in' as const }; // Your existing transition config
+// Define default page transition
+const defaultPageTransition = { name: 'page', mode: 'out-in' as const };
 
 const pageTransitionConfig = computed(() => {
   if (isLanguageSwitching.value) {

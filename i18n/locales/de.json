@@ -25,11 +25,11 @@
     },
     "frontendDev": {
       "title": "Frontend Entwicklung",
-      "description": "Vom Prototypen zum interaktiven Erlebnis. Mit modernsten Werkzeugen – ob Code oder effiziente Webbuilder – sorge ich für eine technische Basis, die schnell, sicher und responsiv ist."
+      "description": "Vom Prototypen zum interaktiven Erlebnis. Mit modernsten Werkzeugen, ob Code oder effiziente Webbuilder, sorge ich für eine technische Basis, die schnell, sicher und responsiv ist."
     }
   },
   "about": {
-    "hero": "Kreative und ansprechende Lösungen für komplexe Aufgaben",
+    "hero": "Kreative & ansprechende Lösungen für komplexe Aufgaben",
     "imageAlt": "Über mich - Porträtbild von Markus Biereth",
     "section1": {
       "title": "Wer bin ich?",
@@ -71,7 +71,7 @@
       {
         "institution": "KiK GmbH",
         "title": "Handelsassistent",
-        "description": "Ausbildung + Weiterbildung"
+        "description": "Ausbildung & Weiterbildung"
       },
       {
         "institution": "KiK GmbH",

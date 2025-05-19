@@ -104,9 +104,13 @@ p {
 }
 address {
   margin-bottom: 1em;
+  color: var(--ui-text-muted);
 }
 ul {
   list-style: disc;
   margin-left: 1.5em;
+}
+li {
+  color: var(--ui-text-muted);
 }
 </style>

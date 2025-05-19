@@ -21,15 +21,15 @@
     "mainHeading": "Modern & scalable applications for innovative companies",
     "uxUiDesign": {
       "title": "UX & UI Design",
-      "description": "From target group analysis to wireframes, design systems, and prototyping, I design products and software that inspire your customers and turn them into loyal advocates for your brand."
+      "description": "From target group analysis to wireframes, design systems, and prototyping, I create products and software that inspire your customers and turn them into loyal advocates for your brand."
     },
     "frontendDev": {
       "title": "Frontend Development",
-      "description": "From prototype to interactive experience. With the most modern tools – whether code or efficient web builders – I ensure a technical foundation that is fast, secure, and responsive."
+      "description": "From prototype to interactive experience. With the most modern tools, whether code or efficient web builders, I ensure a technical foundation that is fast, secure, and responsive."
     }
   },
   "about": {
-    "hero": "Creative and attractive solutions for complex tasks",
+    "hero": "Creative & attractive solutions for complex tasks",
     "imageAlt": "About me - Portrait picture of Markus Biereth",
     "section1": {
       "title": "Who am I?",
@@ -71,7 +71,7 @@
       {
         "institution": "KiK GmbH",
         "title": "Retail Assistant",
-        "description": "Apprenticeship + Further Training"
+        "description": "Apprenticeship & Further Training"
       },
       {
         "institution": "KiK GmbH",
@@ -85,7 +85,7 @@
       },
       {
         "institution": "University of Würzburg",
-        "title": "Human-Computer Interactions",
+        "title": "Human-Computer-Interaction",
         "description": "Successfully discontinued"
       },
       {
