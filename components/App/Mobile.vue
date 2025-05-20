@@ -1,7 +1,7 @@
 <template>
   <header class="fixed top-0 w-full z-40 h-16 bg-default border-muted border-b shadow-none">
 
-    <UContainer class="flex items-center justify-between h-full !px-6">
+    <UContainer class="flex items-center justify-between h-full !px-5">
         <NuxtLink to="/" aria-label="Homepage" class="logo-link flex-shrink-0" external>
           <svg width="40" height="40" viewBox="0 0 1001 1001" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path

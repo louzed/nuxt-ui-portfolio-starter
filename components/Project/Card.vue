@@ -9,7 +9,7 @@
           class="min-w-full bg-muted aspect-3/2 object-cover hover:scale-105 transition duration-600"
         >
       </NuxtLink>
-      <div class="flex flex-col lg:w-1/2 px-6 lg:px-8 py-8 justify-center">
+      <div class="flex flex-col lg:w-1/2 px-5 lg:px-8 py-8 justify-center">
         <div class="flex flex-col items-start gap-3">
           <div class="flex gap-2 mb-2">
             <UBadge

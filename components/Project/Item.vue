@@ -4,7 +4,7 @@
         <div class="lg:border-r-1 border-muted lg:w-1/2 lg:py-12">
           <img :src="image" :alt="title" class="min-w-full bg-muted aspect-3/2 object-cover" >
         </div>
-        <div class="flex flex-col lg:w-1/2 px-6 lg:px-8 py-8 justify-center">
+        <div class="flex flex-col lg:w-1/2 px-5 lg:px-8 py-8 justify-center">
           <div class="flex flex-col items-start gap-3">
             <h4>{{ title }}</h4>
             <p class="text-muted max-w-lg mb-4">{{ description }}</p>

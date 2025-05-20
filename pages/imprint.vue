@@ -1,6 +1,6 @@
 <template>
   <div>
-    <UContainer class="!px-6 py-12 lg:py-24 max-w-4xl mx-auto">
+    <UContainer class="!px-5 py-12 lg:py-24 max-w-4xl mx-auto">
       <h1>{{ $t('imprint.title') }}</h1>
 
       <address class="not-italic mb-6">

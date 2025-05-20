@@ -1,7 +1,7 @@
 <template>
   <div class="border-b border-muted">
     <UContainer class="min-h-[calc(100vh-128px)] lg:flex xl:border-r-1 xl:border-l-1 border-muted">
-      <div class="flex lg:w-1/2 justify-start items-center px-6 lg:px-8 py-16 lg:border-r-1 border-muted">
+      <div class="flex lg:w-1/2 justify-start items-center px-5 lg:px-8 py-16 lg:border-r-1 border-muted">
         <div class="flex flex-col items-start gap-3">
           <div class="flex gap-2 lg:mb-0 mb-2">
             <UBadge v-for="(badge, index) in badges" :key="index" size="md" color="neutral" variant="soft">

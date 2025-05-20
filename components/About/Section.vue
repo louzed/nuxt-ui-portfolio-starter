@@ -1,6 +1,6 @@
 <template>
   <div class="border-b border-muted">
-    <UContainer class="py-16 lg:py-24 !px-6">
+    <UContainer class="py-16 lg:py-24 !px-5">
       <h2 class="max-w-5xl mx-auto text-center">
         {{ t('about.hero') }}
       </h2>
@@ -15,7 +15,7 @@
         </ClientOnly>
       </div>
 
-      <div class="flex flex-col justify-center border-b border-muted px-6 lg:px-8 py-12">
+      <div class="flex flex-col justify-center border-b border-muted px-5 lg:px-8 py-12">
         <div class="space-y-2">
           <div v-intersection-observer.once="handleIntersection" class="isolate flex mb-4 size-16 rounded-md bg-muted">
             <UIcon v-if="isVisible" name="i-line-md-github-loop" class="size-12 mx-auto my-auto" />
@@ -54,7 +54,7 @@
         </div>
       </div>
 
-      <div class="px-6 lg:px-8 py-12 flex flex-col justify-center">
+      <div class="px-5 lg:px-8 py-12 flex flex-col justify-center">
         <div class="space-y-2">
           <div v-intersection-observer.once="handleIntersection2" class="isolate flex size-16 mb-4 rounded-md bg-muted">
             <UIcon v-if="isVisible2" name="i-line-md-star-pulsating-loop" class="size-12 mx-auto my-auto" />
