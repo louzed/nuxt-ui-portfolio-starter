@@ -1,6 +1,6 @@
 <template>
   <UDrawer v-model:open="open" should-scale-background>
-    <UButton :label="t('cv.drawer.buttonLabel')" icon="i-academicons-cv-square" variant="outline" size="lg" @click="open = true" />
+    <UButton :label="t('cv.drawer.buttonLabel')" icon="i-mdi-resume" variant="outline" size="lg" @click="open = true" />
 
     <template #header>
       <div class="flex flex-grow max-w-4xl mx-auto justify-between items-center">

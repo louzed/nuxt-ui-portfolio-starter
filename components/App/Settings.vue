@@ -25,14 +25,14 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 import { useColorMode, useI18n, useSwitchLocalePath, useRoute, navigateTo } from '#imports';
-import { isLanguageSwitching } from '~/composables/useNavigationState'; // Import the shared state
+import { isLanguageSwitching } from '~/composables/useNavigationState';
 
 const colorMode = useColorMode();
 const { locale, t, setLocale } = useI18n();
 const switchLocalePath = useSwitchLocalePath();
 const route = useRoute();
 
-// --- Theme Switching Logic (remains mostly the same) ---
+// --- Theme Switching Logic ---
 const nextTheme = computed(() => (colorMode.value === "dark" ? "light" : "dark"));
 const switchTheme = () => {
   colorMode.preference = nextTheme.value;

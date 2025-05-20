@@ -47,8 +47,8 @@ export interface LocalizedString {
           en: 'Project duration: 6 weeks · 150 pages',
         },
         description: {
-          de: 'Ein vorhandenes UX Konzept soll anhand der <a href="https://carbondesignsystem.com/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 no-underline hover:underline">Carbon Library</a> von IBM in ein fertiges UI Design überführt werden. Hoher Fokus auf Barrierefreiheit. Seitenzahl: ~150.',
-          en: 'An existing UX concept is to be transformed into a finished UI design using IBM\'s <a href="https://carbondesignsystem.com/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 no-underline hover:underline">Carbon Library</a>. High focus on accessibility. Page count: ~150.',
+          de: 'Ein vorhandenes UX Konzept soll anhand der <a href="https://carbondesignsystem.com/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 no-underline hover:underline">Carbon Library</a> von IBM in ein fertiges UI Design überführt werden. Hoher Fokus auf Barrierefreiheit.',
+          en: 'An existing UX concept is to be transformed into a finished UI design using IBM\'s <a href="https://carbondesignsystem.com/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 no-underline hover:underline">Carbon Library</a>. High focus on accessibility',
         },
         imageSrc: '/images/hss00.webp',
         viewTransitionName: 'project-image-hochschulstart',

@@ -11,7 +11,7 @@
     "switchLanguageTo": "Sprache wechseln zu {language}"
   },
   "hero": {
-    "Badge": "Verfügbar für Projekte",
+    "Badge": "Frei für Projekte",
     "Title": "UX/UI Designer & Webentwickler in Mainfranken",
     "ContactButton": "Termin buchen",
     "heroImageAlt": "Hero Bild: Abstrakte Visualisierung",
@@ -36,7 +36,7 @@
       "description": "Ich gestalte Webseiten und andere digitale Produkte seit ca. 20 Jahren aus Leidenschaft."
     },
     "section2": {
-      "title": "Zertifizierter UX Designer",
+      "title": "Zertifikate",
       "description": "2022 absolvierte ich eine Weiterbildung zum UX/UI Designer und arbeite seitdem freiberuflich."
     }
   },

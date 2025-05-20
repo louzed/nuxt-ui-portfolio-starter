@@ -1,6 +1,6 @@
 <template>
   <div class="border-b border-muted">
-    <UContainer class="flex flex-col py-24 !px-6">
+    <UContainer class="flex flex-col py-16 lg:py-24 !px-6">
       <h2 class="max-w-5xl mx-auto text-center">{{ t('services.mainHeading') }}</h2>
     </UContainer>
   </div>

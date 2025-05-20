@@ -1,6 +1,6 @@
 <template>
   <div class="border-b-1 border-muted">
-    <UContainer class="lg:flex xl:border-r xl:border-l border-muted pb-6 lg:pb-0">
+    <UContainer class="lg:flex xl:border-r xl:border-l border-muted py-6 lg:py-0">
       <NuxtLink :to="to" class="lg:border-r-1 border-muted lg:w-1/2 lg:py-12 overflow-hidden">
         <img
           :src="image"

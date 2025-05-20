@@ -1,6 +1,6 @@
 <template>
   <div class="border-b border-muted">
-    <UContainer class="py-24 !px-6">
+    <UContainer class="py-16 lg:py-24 !px-6">
       <h2 class="max-w-5xl mx-auto text-center">
         {{ t('about.hero') }}
       </h2>
@@ -9,7 +9,7 @@
 
   <div class="border-b border-muted">
     <UContainer class="grid grid-cols-1 lg:grid lg:grid-cols-2 lg:grid-rows-2 xl:border-r xl:border-l border-muted">
-      <div class="border-b lg:border-b-0 lg:border-r border-muted py-12 lg:row-span-2">
+      <div class="border-b lg:border-b-0 lg:border-r border-muted py-6 lg:py-12 lg:row-span-2">
         <ClientOnly>
           <img :src="getImg('about')" :alt="t('about.imageAlt')" class="aspect-square object-cover object-center" >
         </ClientOnly>

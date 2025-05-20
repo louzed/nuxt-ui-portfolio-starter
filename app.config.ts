@@ -25,7 +25,7 @@ export default defineAppConfig({
         item: 'border-b border-default last:border-b-0',
         header: 'flex',
         body: 'text-md text-muted pb-3.5',
-        label: 'text-start text-xl lg:text-2xl font-bold break-words'
+        label: 'text-start text-lg md:text-xl lg:text-2xl font-bold break-words'
       },
     },
   },

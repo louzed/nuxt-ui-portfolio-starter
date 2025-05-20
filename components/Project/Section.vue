@@ -1,5 +1,6 @@
 <template>
-    <div> <ProjectLogos />
+    <div> 
+      <ProjectLogos />
   
       <ProjectCard
         v-for="projectCardData in localizedProjectsForCards"

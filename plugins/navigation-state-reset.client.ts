@@ -1,11 +1,8 @@
 // plugins/navigation-state-reset.client.ts
 import { nextTick } from 'vue';
-import { isLanguageSwitching } from '~/composables/useNavigationState'; // Adjust path if your composables folder is different
+import { isLanguageSwitching } from '~/composables/useNavigationState';
 
-// Import useRouter from Nuxt's auto-imports or directly from vue-router
-import { useRouter } from '#imports'; // Recommended for Nuxt 3 auto-imports
-// Alternatively, if '#imports' doesn't resolve correctly for some reason:
-// import { useRouter } from 'vue-router';
+import { useRouter } from '#imports';
 
 export default defineNuxtPlugin(() => {
   const router = useRouter(); // Get the router instance using the composable

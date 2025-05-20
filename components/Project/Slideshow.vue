@@ -1,6 +1,6 @@
 <template>
   <div class="border-b-1 border-muted">
-    <UContainer class="xl:border-r xl:border-l border-muted py-12">
+    <UContainer class="xl:border-r xl:border-l border-muted pb-12 pt-6 lg:pt-12">
       <ClientOnly>
         <UCarousel
           v-slot="{ item }"
