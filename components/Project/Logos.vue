@@ -32,9 +32,9 @@ const BASE_SPEED = 0.5 // px/frame - Carousel's default speed
 // MIN_CAROUSEL_SPEED is effectively BASE_SPEED when speeding up
 const MAX_CAROUSEL_SPEED = 5.0 // Maximum speed for the carousel (adjust as needed)
 const SCROLL_SPEED_SENSITIVITY = 2.0 // How much scroll speed affects carousel speed increase
-const LERP_SMOOTHING_FACTOR = 0.1 // Lower is smoother but slower to react (0.0 to 1.0)
+const LERP_SMOOTHING_FACTOR = 0.05 // Lower is smoother but slower to react (0.0 to 1.0)
 const SCROLL_END_RESET_DELAY = 50 // ms - Time after last scroll to reset to base speed
-const MIN_SCROLL_VELOCITY_TO_REACT = 0.1 // Ignore tiny scroll jitters
+const MIN_SCROLL_VELOCITY_TO_REACT = 0.05 // Ignore tiny scroll jitters
 // --- End Speed Configuration ---
 
 const currentCarouselSpeed = ref(BASE_SPEED)

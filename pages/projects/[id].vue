@@ -13,7 +13,7 @@
 
     <section id="message">
       <div class="border-b border-muted">
-        <UContainer class="flex flex-col py-24 !px-4">
+        <UContainer class="flex flex-col py-16 lg:py-24 !px-4">
           <div v-intersection-observer.once="handleIntersection" class="isolate flex size-20 mb-4 mx-auto">
             <UIcon v-if="isVisible" name="i-line-md-chat-round-alert" class="size-20 mx-auto my-auto" />
           </div>

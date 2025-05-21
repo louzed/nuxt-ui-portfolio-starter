@@ -12,7 +12,7 @@ export default defineNuxtConfig({
       mode: 'out-in',
     }
   },
-  ssr: false,
+  ssr: true,
   image: {
   },
   devtools: { enabled: false },

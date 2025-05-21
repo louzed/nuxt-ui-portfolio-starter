@@ -12,8 +12,8 @@
     <template #body>
       <div class="flex w-full">
         <div class="lg:flex max-w-4xl mx-auto">
-          <img src="/images/webflow1.webp" alt="UX Design XDi" class="lg:w-1/2" loading="eager" >
-          <img src="/images/webflow2.webp" alt="UX Design XDi" class="lg:w-1/2" loading="eager" >
+          <img :src="getImg1('webflow1')" alt="Webflow" class="lg:w-1/2" loading="eager" >
+          <img :src="getImg2('webflow1')" alt="Webflow" class="lg:w-1/2" loading="eager" >
         </div>
       </div>
     </template>
@@ -22,5 +22,19 @@
 </template>
 
 <script setup lang="ts">
+import { useColorMode } from '#imports';
+
 const open = ref(false)
+
+const colorMode = useColorMode();
+
+const getImg1 = (name: string) => {
+  const suffix = colorMode.value === 'dark' ? 'dark' : 'light';
+  return `/images/${name}-${suffix}.webp`;
+};
+
+const getImg2 = (name: string) => {
+  const suffix = colorMode.value === 'dark' ? 'dark' : 'light';
+  return `/images/${name}-${suffix}.webp`;
+};
 </script>

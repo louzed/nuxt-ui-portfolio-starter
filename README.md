@@ -1,6 +1,6 @@
 # Nuxt UI Portfolio Starter
 
-+++ Nuxt UI 3 + Tailwind 4
++++ Nuxt UI 3 + Tailwind
 
 +++ i18n translation
 
@@ -11,7 +11,7 @@
 +++ Fully responsive
 
 
-Demo: https://biereth.de
+Demo: https://biereth.de/en
 
 Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui.nuxt.com) to learn more.
 
