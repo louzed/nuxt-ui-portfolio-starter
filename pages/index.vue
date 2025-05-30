@@ -23,7 +23,7 @@ import { useActiveSection } from "~/composables/useActiveSection";
 useActiveSection();
 
 useHead({
-  title: "M. Biereth - UX/UI & Webdesign in Mainfranken",
+  title: "M. Biereth - UX/UI & Webentwicklung in Mainfranken",
   meta: [
     {
       name: "description",

@@ -4,7 +4,7 @@
       <UContainer class="min-h-[calc(100vh-128px)] lg:flex xl:border-r-1 xl:border-l-1 border-muted">
         <div class="flex lg:w-1/2 lg:justify-start justify-center items-center px-5 lg:px-8 py-16 lg:border-r-1 border-muted">
           <div class="flex flex-col items-center lg:items-start gap-2">
-            <img data-fade="1" src="/images/avatar.webp" alt="Markus Biereth" class="w-30 h-30 bg-elevated mb-6 rounded-full" >
+            <img data-fade="1" src="/images/avatar.webp" alt="Markus Biereth" class="w-30 h-30 bg-muted mb-6 rounded-full" >
             <div class="flex mb-1" data-fade="2">
               <UBadge icon="i-svg-spinners-pulse-multiple" size="md" color="success" variant="outline" class="rounded-full">
                 {{ t('hero.Badge') }}
