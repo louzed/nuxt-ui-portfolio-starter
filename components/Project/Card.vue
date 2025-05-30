@@ -43,7 +43,7 @@ defineProps<{
   description: string
   ctaLabel: string
   badges: string[]
-  transitionName?: string
+  transitionName: string
 }>()
 </script>
 

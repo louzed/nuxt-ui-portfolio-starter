@@ -18,7 +18,7 @@
         </div>
       </div>
       <div class="flex lg:w-1/2 items-center">
-        <img :src="imageSrc" :view-transition-name="viewTransitionName" :alt="imageAlt"
+        <img :src="imageSrc" :view-transition-name="transitionName" :alt="imageAlt"
           class="min-w-full aspect-3/2 object-cover object-top-left" >
       </div>
     </UContainer>
@@ -51,9 +51,9 @@ defineProps({
     type: String,
     required: true,
   },
-  viewTransitionName: {
+  transitionName: {
     type: String,
-    default: '',
+    required: true,
   },
   imageAlt: {
     type: String,

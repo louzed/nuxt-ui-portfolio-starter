@@ -23,11 +23,11 @@ import { useActiveSection } from "~/composables/useActiveSection";
 useActiveSection();
 
 useHead({
-  title: "Markus Biereth - UX/UI Design & Webentwicklung in Mainfranken",
+  title: "M. Biereth - UX/UI & Webdesign in Mainfranken",
   meta: [
     {
       name: "description",
-      content: "Ihr Experte für Usability und moderne Webentwicklung in Mainfranken. Entdecken Sie spannende Projekte und innovative Designlösungen.",
+      content: "Ihr Experte für Usability und moderne Webentwicklung in Würzburg. Entdecken Sie spannende Projekte und attraktive Designlösungen für innovative Unternehmen.",
     },
     // --- Add Open Graph Tags ---
     {
@@ -36,7 +36,7 @@ useHead({
     },
     {
       property: "og:description",
-      content: "Ihr Experte für Usability und moderne Webentwicklung in Mainfranken. Entdecken Sie spannende Projekte und innovative Designlösungen.",
+      content: "Ihr Experte für Usability und moderne Webentwicklung in Würzburg. Entdecken Sie spannende Projekte und attraktive Designlösungen für innovative Unternehmen.",
     },
     {
       property: "og:type",

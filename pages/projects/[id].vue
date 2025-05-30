@@ -6,7 +6,7 @@
         :subtitle="project.heroSubtitle"
         :description="project.heroDescription"
         :image-src="project.heroImageSrc"
-        :view-transition-name="project.heroViewTransitionName"
+        :transition-name="project.heroTransitionName"
         :image-alt="project.heroImageAlt"
       />
     </section>
@@ -102,7 +102,7 @@ const project = computed(() => {
     heroSubtitle: getLocalized(rawData.hero.subtitle, currentLocaleValue),
     heroDescription: getLocalized(rawData.hero.description, currentLocaleValue),
     heroImageSrc: rawData.hero.imageSrc,
-    heroViewTransitionName: rawData.hero.viewTransitionName,
+    heroTransitionName: rawData.hero.transitionName,
     heroImageAlt: getLocalized(rawData.hero.imageAlt, currentLocaleValue),
     message: getLocalized(rawData.message, currentLocaleValue),
     items: rawData.items.map(item => ({

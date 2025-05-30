@@ -18,7 +18,7 @@ export interface LocalizedString {
       subtitle: LocalizedString;
       description: LocalizedString;
       imageSrc: string;
-      viewTransitionName: string;
+      transitionName: string;
       imageAlt: LocalizedString;
     };
     message: LocalizedString;
@@ -29,7 +29,7 @@ export interface LocalizedString {
       description: LocalizedString;
       ctaLabel: LocalizedString;
       badges: string[];
-      transitionName?: string;
+      transitionName: string;
     };
   }
   
@@ -51,7 +51,7 @@ export interface LocalizedString {
           en: 'An existing UX concept is to be transformed into a finished UI design using IBM\'s <a href="https://carbondesignsystem.com/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 no-underline hover:underline">Carbon Library</a>. High focus on accessibility',
         },
         imageSrc: '/images/hss00.webp',
-        viewTransitionName: 'project-image-hochschulstart',
+        transitionName: 'project-image-hochschulstart',
         imageAlt: {
           de: 'Projekt Vorschau Hochschulstart',
           en: 'Project Preview Hochschulstart',
@@ -103,7 +103,7 @@ export interface LocalizedString {
           en: 'Redesign of the vehicle search for a web portal specializing in car subscriptions.',
         },
         imageSrc: '/images/car00.webp',
-        viewTransitionName: 'project-image-carnabo',
+        transitionName: 'project-image-carnabo',
         imageAlt: {
           de: 'Projekt Vorschau Carnabo',
           en: 'Project Preview Carnabo',
@@ -155,7 +155,7 @@ export interface LocalizedString {
           en: 'Idea and collaboration network for open-source projects, developers, and enthusiasts based on <a href="https://ocelot.social/" target="_blank" rel="noopener noreferrer" class="text-primary-500 dark:text-primary-400 no-underline hover:underline">Ocelot Social</a>.',
         },
         imageSrc: '/images/oto00.webp',
-        viewTransitionName: 'project-image-otopia',
+        transitionName: 'project-image-otopia',
         imageAlt: {
           de: 'Projekt Vorschau Otopia',
           en: 'Project Preview Otopia',

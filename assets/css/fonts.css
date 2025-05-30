@@ -2,7 +2,7 @@
 @import "@nuxt/ui";
 
 @theme static {
-  --font-sans: 'Sora', sans-serif;
+  --font-sans: 'Sora', 'Roboto', 'Tahoma', 'Arial', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
