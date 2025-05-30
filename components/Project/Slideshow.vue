@@ -17,7 +17,7 @@
             alt="Carousel slide"
             width="100%"
             height="234"
-            class="aspect-3/2 bg-accented object-cover translate-x-2"
+            class="aspect-3/2 bg-muted object-cover translate-x-2"
             loading="lazy"
           />
         </UCarousel>
