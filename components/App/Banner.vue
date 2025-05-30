@@ -8,6 +8,7 @@
       </div>
       <UButton
         color="primary"
+        class="!text-inverted"
         size="md"
         variant="solid"
         icon="i-heroicons-x-mark-20-solid"

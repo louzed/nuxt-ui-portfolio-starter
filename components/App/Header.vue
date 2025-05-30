@@ -31,7 +31,8 @@
           target="_blank" 
           trailing-icon="i-mdi-external-link" 
           variant="solid" 
-          color="primary" 
+          color="primary"
+          class="!text-inverted" 
           size="md">
           {{ t('hero.ContactButton') }}
         </UButton>

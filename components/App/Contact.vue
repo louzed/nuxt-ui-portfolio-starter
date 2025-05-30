@@ -24,7 +24,8 @@
         <UButton
           to="https://zeeg.me/biereth" 
           target="_blank" 
-          :label="t('hero.ContactButton')" 
+          :label="t('hero.ContactButton')"
+          class="!text-inverted" 
           size="lg"
           icon="i-mdi-external-link" 
           trailing 

@@ -21,7 +21,7 @@
               <UButton :to="whatsAppUrl" target="_blank" label="WhatsApp" size="lg" icon="i-mdi-whatsapp"
                 color="success" />
               <UButton to="https://zeeg.me/biereth" :label="t('hero.ContactButton')" target="_blank" size="lg"
-                trailing-icon="i-mdi-external-link" />
+                class="!text-inverted" trailing-icon="i-mdi-external-link" />
             </div>
           </div>
         </div>

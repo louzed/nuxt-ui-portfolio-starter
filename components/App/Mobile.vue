@@ -42,7 +42,7 @@
               </li>
             </ul>
           </ClientOnly>
-          <UButton class="mt-6" block to="https://zeeg.me/biereth" target="_blank" @click="isMobileMenuOpen = false">
+          <UButton class="mt-6 !text-inverted" block to="https://zeeg.me/biereth" target="_blank" @click="isMobileMenuOpen = false">
             {{ t('hero.ContactButton') }}</UButton>
         </div>
       </template>
