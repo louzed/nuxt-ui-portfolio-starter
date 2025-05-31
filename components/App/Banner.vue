@@ -3,7 +3,7 @@
     <div class="hidden lg:flex items-center justify-between px-2 h-8">
       <div class="flex items-center text-sm font-medium text-inverted">
         <span>🚀&nbsp{{ t('banner.title') }}</span>
-        <NuxtLink to="https://biereth.de/mail/intro/" target="_blank" class="flex gap-1 items-center underline ml-4 hover:text-muted">Demo<UIcon name="i-mdi-external-link" />
+        <NuxtLink to="https://biereth.de/mail/intro/" target="_blank" class="flex gap-1 items-center underline ml-4 hover:text-inverted/75">Demo<UIcon name="i-mdi-external-link" />
         </NuxtLink>
       </div>
       <UButton
