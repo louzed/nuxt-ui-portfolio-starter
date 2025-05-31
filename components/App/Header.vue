@@ -1,5 +1,5 @@
 <template>
-  <header class="sticky top-0 z-40 bg-default border-b border-muted shadow-none">
+  <header class="sticky top-0 z-40 bg-default/85 backdrop-blur-lg border-b border-muted shadow-none">
     <UContainer class="grid grid-cols-[1fr_auto_1fr] h-16 items-center !px-8">
       <nav class="flex items-center justify-start">
         <ul class="flex gap-2">
