@@ -29,12 +29,12 @@ const open = ref(false)
 const colorMode = useColorMode();
 
 const getImg1 = (name: string) => {
-  const suffix = colorMode.value === 'dark' ? 'dark' : 'light';
+  const suffix = colorMode.value === 'dark' ? 'dark' : 'dark';
   return `/images/${name}-${suffix}.webp`;
 };
 
 const getImg2 = (name: string) => {
-  const suffix = colorMode.value === 'dark' ? 'dark' : 'light';
+  const suffix = colorMode.value === 'dark' ? 'dark' : 'dark';
   return `/images/${name}-${suffix}.webp`;
 };
 </script>

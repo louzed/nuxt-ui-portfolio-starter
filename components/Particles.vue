@@ -29,7 +29,7 @@ let resizeTimeout: number | null = null; // Or NodeJS.Timeout if using Node type
 
 // --- Configuration ---
 const particleDensity: number = 0.5; // Particles per 10,000 pixels
-const particleColor: string = '#05df72';
+const particleColor: string = '#009966';
 const minParticleSize: number = 0.1;
 const maxParticleSize: number = 1;
 const minSpeedY: number = 0.1;

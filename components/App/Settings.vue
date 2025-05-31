@@ -7,7 +7,7 @@
         variant="outline"
         :label="currentLanguageLabel"
         size="md"
-        class="rounded-md"
+        class="rounded-md bg-neutral-0"
         @click="toggleLanguage"
       />
       <UButton
@@ -15,7 +15,7 @@
         color="neutral"
         variant="outline"
         size="md"
-        class="rounded-md"
+        class="rounded-md bg-neutral-0"
         @click="startViewTransition"
       />
     </UButtonGroup>
