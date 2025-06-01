@@ -48,8 +48,8 @@
   --ui-border-accented: var(--ui-color-neutral-800);
   --ui-border-inverted: var(--color-white);
 
-  --scrollbar-color-thumb: var(--ui-color-neutral-600);
-  --scrollbar-color-track: var(--ui-color-neutral-900);
+  --scrollbar-color-thumb: var(--ui-color-neutral-500);
+  --scrollbar-color-track: var(--ui-color-neutral-800);
 
   --logo-fill: none;
   --logo-bg: var(--ui-color-neutral-600);
