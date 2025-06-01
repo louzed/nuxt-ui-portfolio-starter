@@ -30,6 +30,16 @@
             <DrawerCv />
             <div class="flex ml-2 gap-1">
               <UButton
+                to="https://dribbble.com/mbiereth"
+                target="_blank"
+                :icon="dribbbleIcon"
+                variant="ghost"
+                color="neutral"
+                size="lg"
+                @mouseenter="dribbbleIcon = 'i-mdi-external-link'"
+                @mouseleave="dribbbleIcon = 'i-teenyicons-dribbble-solid'"
+              />
+              <UButton
                 to="https://github.com/louzed"
                 target="_blank"
                 :icon="githubIcon"
@@ -38,16 +48,6 @@
                 size="lg"
                 @mouseenter="githubIcon = 'i-mdi-external-link'"
                 @mouseleave="githubIcon = 'i-simple-icons-github'"
-              />
-              <UButton
-                to="https://dribbble.com/mbiereth"
-                target="_blank"
-                :icon="dribbbleIcon"
-                variant="ghost"
-                color="neutral"
-                size="lg"
-                @mouseenter="dribbbleIcon = 'i-mdi-external-link'"
-                @mouseleave="dribbbleIcon = 'i-mingcute-dribbble-fill'"
               />
             </div>
           </div>

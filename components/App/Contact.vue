@@ -1,8 +1,7 @@
 <template>
-  <div class="py-6 lg:py-24 relative overflow-hidden">
+  <div class="py-6 lg:py-12 relative overflow-hidden bg-[url('/images/contact-light.webp')] dark:bg-[url('/images/contact-dark.webp')] 
+        bg-fixed bg-cover bg-center bg-muted">
     <UContainer class="relative flex flex-col py-16 !px-5">
-      <div class="absolute inset-0 bg-[url('/images/contact-light.webp')] dark:bg-[url('/images/contact-dark.webp')] 
-        lg:bg-fixed bg-cover bg-center bg-muted pointer-events-none" />
       <div v-intersection-observer.once="handleIntersection" class="size-16 flex mx-auto mb-4 relative z-10">
         <UIcon
           v-if="isVisible"

@@ -33,7 +33,7 @@ const { scrollToSection: customScrollToSection } = useScrollHandler(); // Use th
 
 const HEADER_HEIGHT_OFFSET = 64; // Define header height for scroll offset
 const PAGE_LEAVE_ANIMATION_DURATION = 300; // Your page leave animation duration in ms
-const POST_NAVIGATION_SCROLL_DELAY = PAGE_LEAVE_ANIMATION_DURATION + 25; // Add a small buffer
+const POST_NAVIGATION_SCROLL_DELAY = PAGE_LEAVE_ANIMATION_DURATION + 50; // Add a small buffer
 
 // Helper to get the canonical path for the main page
 const getMainPagePath = () => localePath('/') ?? '/';
