@@ -31,6 +31,9 @@ export default defineNuxtConfig({
       ],
       scrollBehavior: false,
       strategy: 'prefix_and_default',
+      bundle: {
+        optimizeTranslationDirective: false,
+      },
     }]
   ],
 

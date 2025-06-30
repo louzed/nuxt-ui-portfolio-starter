@@ -24,7 +24,7 @@ import { projects as allProjects, type LocalizedString } from '~/assets/projects
 
 
 const localePath = useLocalePath();
-const { locale } = useI18n();
+const { locale, t } = useI18n();
 
 const getLocalized = (localizedData: LocalizedString | undefined, currentLocaleValue: string): string => {
   if (!localizedData) return '';

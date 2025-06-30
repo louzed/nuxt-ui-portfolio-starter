@@ -186,7 +186,7 @@ export interface LocalizedString {
           de: 'Otopia',
           en: 'Otopia',
         },
-        badges: ['UI Design', 'Prototyp', 'Figma'],
+        badges: ['UX/UI Design', 'Prototyp', 'Figma'],
         transitionName: 'project-image-otopia',
       }
     },

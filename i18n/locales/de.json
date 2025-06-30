@@ -31,6 +31,10 @@
       "description": "Vom Prototypen zum interaktiven Erlebnis. Mit modernsten Werkzeugen, ob Code oder effiziente Webbuilder, sorge ich für eine technische Basis, die schnell, sicher und responsiv ist."
     }
   },
+  "testimonial": {
+    "client": "Family & Care GmbH",
+    "message": "Wir waren mit der Beratung und der Leistung sehr zufrieden gewesen."
+  },
   "about": {
     "hero": "Kreative & ansprechende Lösungen für komplexe Aufgaben",
     "imageAlt": "Über mich - Porträtbild von Markus Biereth",
@@ -54,7 +58,7 @@
     },
     "whatCanAiDo": {
       "label": "Was kann KI für Ihr Geschäft tun?",
-      "content": "Durch den Einsatz von KI lassen sich Routineaufgaben effizienter gestalten und Abläufe in der Webentwicklung und im Design verkürzen. Das führt zu mehr Effizienz und kann sich positiv auf Ihr Budget auswirken. Meine Rolle ist es, als erfahrener Generalist, diese intelligenten Helfer gezielt einzusetzen, sie mit kreativer Expertise zu kombinieren und Ihr Projekt ganzheitlich und zielgerichtet zu steuern."
+      "content": "Durch den Einsatz von KI lassen sich Routineaufgaben effizienter gestalten und Abläufe in der Webentwicklung und im Design verkürzen. Das führt zu mehr Effizienz und kann sich positiv auf Ihr Budget auswirken. Meine Rolle ist es, diese intelligenten Helfer gezielt einzusetzen, sie mit kreativer Expertise zu kombinieren und Ihr Projekt ganzheitlich und zielgerichtet zu steuern."
     },
     "myProjectApproach": {
       "label": "Wie gehe Ich bei Projekten vor?",
@@ -62,7 +66,7 @@
     },
     "websiteCosts": {
       "label": "Was kostet eine Webseite?",
-      "content": "Meine Preismodelle sind transparent. Der Basissatz beträgt 33,-€ netto pro Stunde. Für standardisierte Projekte wie eine Landing Page (Design & Entwicklung) biete ich einen Festpreis von 999,-€ zzgl. MwSt. an."
+      "content": "Meine Preismodelle sind transparent. Der Basissatz beträgt 33,-€ netto pro Stunde. Für standardisierte Projekte wie eine Landing Page biete ich einen Festpreis von 999,-€ zzgl. MwSt. an."
     }
   },
   "cv": {

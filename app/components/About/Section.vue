@@ -105,5 +105,5 @@ const getImg = (name: string) => {
 };
 
 const githubIcon = ref('i-simple-icons-github');
-const dribbbleIcon = ref('i-mingcute-dribbble-fill');
+const dribbbleIcon = ref('i-teenyicons-dribbble-solid');
 </script>
